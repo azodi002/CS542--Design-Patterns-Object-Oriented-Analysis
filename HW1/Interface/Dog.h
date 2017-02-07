@@ -8,7 +8,7 @@ File Name: Dog.h
 #include "IAnimal.h"
 
 /***************************************************
-Description: Dog deriving from parent class Animal
+Description: Dog deriving from parent class IAnimal
 
 @methods:
 Dog()     -> Default Constructor

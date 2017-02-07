@@ -8,7 +8,7 @@ File Name: Cat.h
 #include "IAnimal.h"
 
 /***************************************************
-Description: Cat deriving from parent class Animal
+Description: Cat deriving from parent class IAnimal
 
 @methods:
 Cat()     -> Default Constructor

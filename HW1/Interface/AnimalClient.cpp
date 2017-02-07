@@ -3,7 +3,7 @@ Name: Omid Azodi
 Class: CS542
 Date: 02/06/2017
 Professor: Dr. Ye
-File Name: IAnimalClient.cpp
+File Name: AnimalClient.cpp
 *******************************************/
 #include "Cat.h"
 #include "Dog.h"
